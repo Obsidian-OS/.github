@@ -5,6 +5,7 @@ To install ObsidianOS right now, no download needed:
 ```
 sudo bash -c "$(curl -fsSL https://ba.sh/ARbs)"
 ```
+(requires the arch-install-scripts package)
 
 [![Download ObsidianOS](https://img.shields.io/sourceforge/dt/obsidianos.svg)](https://sourceforge.net/projects/obsidianos/files/latest/download)
 [![Try ObsidianOS](https://img.shields.io/badge/Try-ObsidianOS-400080?labelColor=%23333333)](https://obsidian-os.github.io/)
