@@ -3,7 +3,7 @@ ObsidianOS is an Arch-based Linux distro with an A/B partition style so if a pac
 
 To install ObsidianOS right now, no download needed:
 ```
-sudo bash -c "$(curl -fsSL https://ba.sh/ARbs)"
+sudo bash -c "$(curl -fsSL https://arbs.obsidianos.xyz)"
 ```
 (requires the arch-install-scripts package)
 
