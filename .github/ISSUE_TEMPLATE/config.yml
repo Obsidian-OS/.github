@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Discord
+    url: https://dsc.gg/obsidianos
+    about: This is in fact an option and is official.
+  - name: Security
+    url: mailto:odd@obsidianos.xyz
+    about: Please report security vulnerabilities here.
