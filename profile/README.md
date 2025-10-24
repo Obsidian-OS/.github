@@ -9,7 +9,7 @@ sudo bash -c "$(curl -fsSL https://arbs.obsidianos.xyz)"
 
 To download an ObsidianOS ISO:
 ```bash
-bash -c "$(curl https://bdj.obsidianos.xyz/)"
+bash -c "$(curl -fsSL https://bdj.obsidianos.xyz/)"
 ```
 
 
