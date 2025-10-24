@@ -5,6 +5,10 @@ To install ObsidianOS right now, no download needed:
 ```bash
 sudo bash -c "$(curl -fsSL https://arbs.obsidianos.xyz)"
 ```
+To download an ObsidianOS ISO:
+```bash
+bash -c "$(curl https://bdj.obsidianos.xyz/)"
+```
 (requires the arch-install-scripts package)
 
 [![Try ObsidianOS](https://img.shields.io/badge/Try-ObsidianOS-400080?labelColor=%23333333)](https://obsidianos.xyz/)
