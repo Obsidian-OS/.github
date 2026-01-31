@@ -17,7 +17,9 @@ All of ObsidianOS's tooling is licensed under MIT.
 <details> <summary>
   Exceptions
 </summary>
+  
 - [ObsidianOS KCM (GPL3)](https://github.com/Obsidian-OS/kcm)
+
 </details>
 
 [![Try ObsidianOS](https://img.shields.io/badge/Try-ObsidianOS-400080?labelColor=%23333333)](https://obsidianos.xyz/)
